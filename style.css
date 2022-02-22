@@ -1,0 +1,20 @@
+.container{
+    display: grid;
+    grid-template-columns: auto;
+     align-items:right ;
+     background-color: red;
+}
+li{
+    list-style-type: none;
+    padding-left: 35px;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 14px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
